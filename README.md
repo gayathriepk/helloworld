@@ -1,2 +1,5 @@
 # helloworld
-this is to teacn others
+void main()
+{
+ printf("Hello world");
+}
